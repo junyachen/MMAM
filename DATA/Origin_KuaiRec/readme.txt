@@ -1,7 +1,7 @@
-Request to download metadata from ''https://kuairec.com/''.
+To download the metadata from "https://kuairec.com/":
 
 
-Move the following files here：
+Please save the following files in this folder：
 "big_matrix.csv"
 "item_daily_features.csv"
 "user_features.csv"
